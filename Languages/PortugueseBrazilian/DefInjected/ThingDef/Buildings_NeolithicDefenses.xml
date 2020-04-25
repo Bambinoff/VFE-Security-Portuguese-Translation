@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+<!-- Cavalry Spikes -->
+
+  <VFES_CavalrySpikes.label>cavalo de frisa</VFES_CavalrySpikes.label>
+  <VFES_CavalrySpikes.description>Estacas de madeira colocadas em sequência para construir fortificações defensivas. Muito barato e rápido de construir, fornece cobertura básica e causa danos #224;s pessoas que tentam atravessá-las. Quebra após algum tempo.</VFES_CavalrySpikes.description>
+  <VFES_CavalrySpikes_Blueprint.label>cavalo de frisa (projeto)</VFES_CavalrySpikes_Blueprint.label>
+  <VFES_CavalrySpikes_Frame.label>cavalo de frisa (construção)</VFES_CavalrySpikes_Frame.label>
+  <VFES_CavalrySpikes_Frame.description>Estacas de madeira colocadas em sequência para construir fortificações defensivas. Muito barato e rápido de construir, fornece cobertura básica e causa danos #224;s pessoas que tentam atravessá-las. Quebra após algum tempo.</VFES_CavalrySpikes_Frame.description>
+
+
+</LanguageData>

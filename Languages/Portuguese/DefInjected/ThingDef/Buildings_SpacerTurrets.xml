@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Charge Turret -->
+
+  <VFES_Turret_ChargeTurret.label>torreta de carga</VFES_Turret_ChargeTurret.label>
+  <VFES_Turret_ChargeTurret.description>Uma torreta automática com uma arma pulsadora de carga na parte superior, utilizando sensores avançados que oferecem maior precisão. Requer plastiaço para recondicionar seu canos após uso pesado. Pode explodir quando danificado.</VFES_Turret_ChargeTurret.description>
+  <VFES_Turret_ChargeTurret_Blueprint.label>torreta de carga (projeto)</VFES_Turret_ChargeTurret_Blueprint.label>
+  <VFES_Turret_ChargeTurret_Blueprint_Install.label>torreta de carga (projeto)</VFES_Turret_ChargeTurret_Blueprint_Install.label>
+  <VFES_Turret_ChargeTurret_Frame.label>torreta de carga (construção)</VFES_Turret_ChargeTurret_Frame.label>
+  <VFES_Turret_ChargeTurret_Frame.description>Uma torreta automática com uma arma pulsadora de carga na parte superior, utilizando sensores avançados que oferecem maior precisão. Requer plastiaço para recondicionar seu canos após uso pesado. Pode explodir quando danificado.</VFES_Turret_ChargeTurret_Frame.description>
+
+  <VFES_Gun_ChargeTurret.label>torreta de carga</VFES_Gun_ChargeTurret.label>
+  <VFES_Gun_ChargeTurret.description>A charge rifle made to be mounted on a turret.</VFES_Gun_ChargeTurret.description>
+
+
+  <!-- Charge Railgun -->
+
+  <VFES_Turret_ChargeRailgunTurret.label>canhão elétrico de carga</VFES_Turret_ChargeRailgunTurret.label>
+  <VFES_Turret_ChargeRailgunTurret.description>Um canhão elétrico pesado geralmente montado em naves espaciais, utilizando uma variedade de sensores avançados que oferecem precisão de primeira classe. Requer que os componentes sejam substitu&#237;dos para operar. Pode explodir quando danificado.</VFES_Turret_ChargeRailgunTurret.description>
+  <VFES_Turret_ChargeRailgunTurret_Blueprint.label>canhão elétrico de carga (projeto)</VFES_Turret_ChargeRailgunTurret_Blueprint.label>
+  <VFES_Turret_ChargeRailgunTurret_Frame.label>canhão elétrico de carga (construção)</VFES_Turret_ChargeRailgunTurret_Frame.label>
+  <VFES_Turret_ChargeRailgunTurret_Frame.description>Um canhão elétrico pesado geralmente montado em naves espaciais, utilizando uma variedade de sensores avançados que oferecem precisão de primeira classe. Requer que os componentes sejam substitu&#237;dos para operar. Pode explodir quando danificado.</VFES_Turret_ChargeRailgunTurret_Frame.description>
+
+  <VFES_Gun_RailgunTurret.label>canhão elétrico de carga</VFES_Gun_RailgunTurret.label>
+  <VFES_Gun_RailgunTurret.description>Um canhão elétrico avançado projetado para lançar dois projéteis eletromagneticamente acelerados em simultâneo.</VFES_Gun_RailgunTurret.description>
+
+  <VFES_Bullet_DoubleChargeLance.label>tiro canhão elétrico de carga</VFES_Bullet_DoubleChargeLance.label>
+
+
+  <!-- EMP Cannon -->
+
+  <VFES_Turret_EMPTurret.label>canhão EMP</VFES_Turret_EMPTurret.label>
+  <VFES_Turret_EMPTurret.description>Um canhão de pulso eletromagnético geralmente montado em naves espaciais. Requer que as hastes de urânio sejam substitu&#237;das para operar. Só pode atingir mecanóides e pode explodir se danificado.</VFES_Turret_EMPTurret.description>
+  <VFES_Turret_EMPTurret_Blueprint.label>canhão EMP (projeto)</VFES_Turret_EMPTurret_Blueprint.label>
+  <VFES_Turret_EMPTurret_Frame.label>canhão EMP (construção)</VFES_Turret_EMPTurret_Frame.label>
+  <VFES_Turret_EMPTurret_Frame.description>Um canhão de pulso eletromagnético geralmente montado em naves espaciais. Requer que as hastes de urânio sejam substitu&#237;das para operar. Só pode atingir mecanóides e pode explodir se danificado.</VFES_Turret_EMPTurret_Frame.description>
+
+  <VFES_Gun_EMPTurret.label>canhão EMP</VFES_Gun_EMPTurret.label>
+  <VFES_Gun_EMPTurret.description>Uma arma de bobina EMP feita para ser montada em uma torre.</VFES_Gun_EMPTurret.description>
+
+  <VFES_Bullet_EMPCannon.label>tiro de EMP</VFES_Bullet_EMPCannon.label>
+
+
+</LanguageData>

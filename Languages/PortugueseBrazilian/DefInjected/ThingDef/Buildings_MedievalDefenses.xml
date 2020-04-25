@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bear Trap -->
+
+  <VFES_BearTrap.label>armadilha de urso</VFES_BearTrap.label>
+  <VFES_BearTrap.description>Um conjunto de dentes de metal sob tensão, conectado a um gatilho ativado por toque. Quando a v&#237;tima pressiona o gatilho, os dentes surgem e normalmente atingem suas pernas ou pés. Vitimas pequenas demais passarão por cima da armadilha sem ativar, enquanto as v&#237;timas grandes demais simplesmente esmagarão essa armadilha. Uma vez que está escondida no terreno circundante, não pode ser colocada adjacente a outras armadilhas.</VFES_BearTrap.description>
+  <VFES_BearTrap_Blueprint.label>armadilha de urso (projeto)</VFES_BearTrap_Blueprint.label>
+  <VFES_BearTrap_Blueprint_Install.label>armadilha de urso (projeto)</VFES_BearTrap_Blueprint_Install.label>
+  <VFES_BearTrap_Frame.label>armadilha de urso (construção)</VFES_BearTrap_Frame.label>
+  <VFES_BearTrap_Frame.description>Um conjunto de dentes de metal sob tensão, conectado a um gatilho ativado por toque. Quando a v&#237;tima pressiona o gatilho, os dentes surgem e normalmente atingem suas pernas ou pés. Vitimas pequenas demais passarão por cima da armadilha sem ativar, enquanto as v&#237;timas grandes demais simplesmente esmagarão essa armadilha. Uma vez que está escondida no terreno circundante, não pode ser colocada adjacente a outras armadilhas.</VFES_BearTrap_Frame.description>
+
+
+</LanguageData>

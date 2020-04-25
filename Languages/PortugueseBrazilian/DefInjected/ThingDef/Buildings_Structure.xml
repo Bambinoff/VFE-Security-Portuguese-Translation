@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VFES_ShortWall.label>parede curta</VFES_ShortWall.label>
+  <VFES_ShortWall.description>Uma parede transitável na altura do peito. Não pode suportar telhados.</VFES_ShortWall.description>
+  <VFES_ShortWall_Blueprint.label>parede curta (projeto)</VFES_ShortWall_Blueprint.label>
+  <VFES_ShortWall_Frame.label>parede curta (construção)</VFES_ShortWall_Frame.label>
+  <VFES_ShortWall_Frame.description>Uma parede transitável na altura do peito. Não pode suportar telhados.</VFES_ShortWall_Frame.description>
+
+
+</LanguageData>

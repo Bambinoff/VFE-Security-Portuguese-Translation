@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Splinter -->
+
+  <VFES_SplinterArrow.label>estilhaço</VFES_SplinterArrow.label>
+  <VFES_SplinterArrow.deathMessage>{0} foi perfurado(a) até a morte por uma flecha gigantesca.</VFES_SplinterArrow.deathMessage>
+
+
+  <!-- Rock -->
+
+  <VFES_Rock.label>rocha</VFES_Rock.label>
+  <VFES_Rock.deathMessage>{0} foi esmagado(a) até a morte por uma rocha gigantesca.</VFES_Rock.deathMessage>
+
+
+  <!-- Flame -->
+
+  <VFES_HauntingFlame.label>chama</VFES_HauntingFlame.label>
+  <VFES_HauntingFlame.deathMessage>{0} queimou até a morte.</VFES_HauntingFlame.deathMessage>
+
+
+</LanguageData>

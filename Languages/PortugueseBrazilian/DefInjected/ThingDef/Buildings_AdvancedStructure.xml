@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Deployable Barrier -->
+
+  <VFES_DeployableBarrier.label>barreira retrátil</VFES_DeployableBarrier.label>
+  <VFES_DeployableBarrier.description>Uma barreira submers&#237;vel que age como um piso normal quando não é acionada. Fornece excelente cobertura contra ataques &#224; distância. Sofre apenas metade do dano quando submerso.</VFES_DeployableBarrier.description>
+  <VFES_DeployableBarrier_Blueprint.label>barreira retrátil (projeto)</VFES_DeployableBarrier_Blueprint.label>
+  <VFES_DeployableBarrier_Frame.label>barreira retrátil (construção)</VFES_DeployableBarrier_Frame.label>
+  <VFES_DeployableBarrier_Frame.description>Uma barreira submers&#237;vel que age como um piso normal quando não é acionada. Fornece excelente cobertura contra ataques &#224; distância. Sofre apenas metade do dano quando submerso.</VFES_DeployableBarrier_Frame.description>
+
+
+  <!-- Deployable Turret -->
+
+  <VFES_Turret_FloorTurret.label>torreta retrátil</VFES_Turret_FloorTurret.label>
+  <VFES_Turret_FloorTurret.description>Uma torreta automática submers&#237;vel de cano duplo, que age como um piso normal quando não é acionada. Sofre apenas metade do dano quando submerso. Requer aço para renovar seus canos após uso pesado. Pode explodir quando danificado. Seu cérebro idiota da IA não pode ser controlado diretamente, então cuidado com o fogo amigo.</VFES_Turret_FloorTurret.description>
+  <VFES_Turret_FloorTurret_Blueprint.label>torreta retrátil (projeto)</VFES_Turret_FloorTurret_Blueprint.label>
+  <VFES_Turret_FloorTurret_Blueprint_Install.label>torreta retrátil (projeto)</VFES_Turret_FloorTurret_Blueprint_Install.label>
+  <VFES_Turret_FloorTurret_Frame.label>torreta retrátil (construção)</VFES_Turret_FloorTurret_Frame.label>
+  <VFES_Turret_FloorTurret_Frame.description>Uma torreta automática submers&#237;vel de cano duplo, que age como um piso normal quando não é acionada. Sofre apenas metade do dano quando submerso. Requer aço para renovar seus canos após uso pesado. Pode explodir quando danificado. Seu cérebro idiota da IA não pode ser controlado diretamente, então cuidado com o fogo amigo.</VFES_Turret_FloorTurret_Frame.description>
+
+  <VFES_Gun_FloorTurret.label>torreta militar de cano duplo retrátil</VFES_Gun_FloorTurret.label>
+  <VFES_Gun_FloorTurret.description>Uma torreta automática submers&#237;vel de cano duplo, que age como um piso normal quando não é acionada.</VFES_Gun_FloorTurret.description>
+
+
+  <!-- HMG Complex (3.15,1.45) -->
+
+  <VFES_Turret_HMGComplex.label>HMG montada</VFES_Turret_HMGComplex.label>
+  <VFES_Turret_HMGComplex.description>Uma metralhadora pesada montada apoiada por alguns sacos de areia para garantir cobertura. É projetada para funcionar independentemente de você ter ou não energia, desde que alguém a esteja usando.</VFES_Turret_HMGComplex.description>
+  <VFES_Turret_HMGComplex_Blueprint.label>HMG montada (projeto)</VFES_Turret_HMGComplex_Blueprint.label>
+  <VFES_Turret_HMGComplex_Frame.label>HMG montada (construção)</VFES_Turret_HMGComplex_Frame.label>
+  <VFES_Turret_HMGComplex_Frame.description>Uma metralhadora pesada montada apoiada por alguns sacos de areia para garantir cobertura. É projetada para funcionar independentemente de você ter ou não energia, desde que alguém a esteja usando.</VFES_Turret_HMGComplex_Frame.description>
+
+  <VFES_Gun_HMGComplex.label>HMG montada</VFES_Gun_HMGComplex.label>
+  <VFES_Gun_HMGComplex.description>Uma variante montada de uma metralhadora pesada.</VFES_Gun_HMGComplex.description>
+
+  <VFES_Bullet_HMGComplex.label>munição de HMG</VFES_Bullet_HMGComplex.label>
+
+
+</LanguageData>

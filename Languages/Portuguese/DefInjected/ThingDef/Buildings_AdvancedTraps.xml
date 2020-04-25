@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Chemfuel Barrel -->
+
+  <VFES_ChemfuelBarrel.label>barril  de combust&#237;vel</VFES_ChemfuelBarrel.label>
+  <VFES_ChemfuelBarrel.description>Um barril cheio de combust&#237;vel qu&#237;mico. Acende após um tiro, o que resulta em uma explosão enorme.</VFES_ChemfuelBarrel.description>
+  <VFES_ChemfuelBarrel_Blueprint.label>barril  de combust&#237;vel (projeto)</VFES_ChemfuelBarrel_Blueprint.label>
+  <VFES_ChemfuelBarrel_Blueprint_Install.label>barril  de combust&#237;vel (projeto)</VFES_ChemfuelBarrel_Blueprint_Install.label>
+  <VFES_ChemfuelBarrel_Frame.label>barril  de combust&#237;vel (construção)</VFES_ChemfuelBarrel_Frame.label>
+  <VFES_ChemfuelBarrel_Frame.description>Um barril cheio de combust&#237;vel qu&#237;mico. Acende após um tiro, o que resulta em uma explosão enorme.</VFES_ChemfuelBarrel_Frame.description>
+
+
+  <!-- Landmine -->
+
+  <VFES_Landmine.label>mina terrestre</VFES_Landmine.label>
+  <VFES_Landmine.description>Um invólucro anti-tanque de material explosivo, projetado para incapacitar ve&#237;culos blindados e pessoal inimigo. Explode imediatamente.</VFES_Landmine.description>
+  <VFES_Landmine_Blueprint.label>mina terrestre (projeto)</VFES_Landmine_Blueprint.label>
+  <VFES_Landmine_Blueprint_Install.label>mina terrestre (projeto)</VFES_Landmine_Blueprint_Install.label>
+  <VFES_Landmine_Frame.label>mina terrestre (construção)</VFES_Landmine_Frame.label>
+  <VFES_Landmine_Frame.description>Um invólucro anti-tanque de material explosivo, projetado para incapacitar ve&#237;culos blindados e pessoal inimigo. Explode imediatamente.</VFES_Landmine_Frame.description>
+
+
+  <!-- Decoy -->
+
+  <VFES_Turret_Decoy.label>chamariz</VFES_Turret_Decoy.label>
+  <VFES_Turret_Decoy.description>Um boneco de pano segurando um rifle de madeira. Atrai a atenção do inimigo.</VFES_Turret_Decoy.description>
+  <VFES_Turret_Decoy_Blueprint.label>chamariz (projeto)</VFES_Turret_Decoy_Blueprint.label>
+  <VFES_Turret_Decoy_Blueprint_Install.label>chamariz (projeto)</VFES_Turret_Decoy_Blueprint_Install.label>
+  <VFES_Turret_Decoy_Frame.label>chamariz (construção)</VFES_Turret_Decoy_Frame.label>
+  <VFES_Turret_Decoy_Frame.description>Um boneco de pano segurando um rifle de madeira. Atrai a atenção do inimigo.</VFES_Turret_Decoy_Frame.description>
+
+  <VFES_Gun_None.label>arma do chamariz</VFES_Gun_None.label>
+  <VFES_Gun_None.description>Uma réplica de arma de madeira para o chamariz.</VFES_Gun_None.description>
+
+  <VFES_Bullet_Invisible.label>invis&#237;vel</VFES_Bullet_Invisible.label>
+
+
+</LanguageData>

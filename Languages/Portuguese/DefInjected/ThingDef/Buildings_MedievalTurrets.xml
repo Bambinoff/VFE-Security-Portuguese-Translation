@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ballista -->
+
+  <VFES_Turret_Ballista.label>balista</VFES_Turret_Ballista.label>
+  <VFES_Turret_Ballista.description>Um antigo mecanismo de cerco militar na forma de uma besta montada em uma construção de madeira. Os dardos disparados desta máquina explodem em estilhaço no impacto.</VFES_Turret_Ballista.description>
+  <VFES_Turret_Ballista_Blueprint.label>balista (projeto)</VFES_Turret_Ballista_Blueprint.label>
+  <VFES_Turret_Ballista_Frame.label>balista (construção)</VFES_Turret_Ballista_Frame.label>
+  <VFES_Turret_Ballista_Frame.description>Um antigo mecanismo de cerco militar na forma de uma besta montada em uma construção de madeira. Os dardos disparados desta máquina explodem em estilhaço no impacto.</VFES_Turret_Ballista_Frame.description>
+
+  <VFES_Bullet_Ballista.label>dardo de balista</VFES_Bullet_Ballista.label>
+
+  <VFES_Gun_BallistaTurret.label>balista</VFES_Gun_BallistaTurret.label>
+  <VFES_Gun_BallistaTurret.description>Um antigo mecanismo de cerco militar na forma de uma besta montada em uma construção de madeira.</VFES_Gun_BallistaTurret.description>
+
+
+  <!-- Catapult -->
+
+  <VFES_Turret_Catapult.label>catapulta</VFES_Turret_Catapult.label>
+  <VFES_Turret_Catapult.description>Uma catapulta é um dispositivo bal&#237;stico usado para lançar um projétil a uma grande distância sem o aux&#237;lio de pólvora ou outros propulsores. Em uso desde os tempos antigos, a catapulta provou ser um dos mecanismos mais persistentemente eficazes na guerra.</VFES_Turret_Catapult.description>
+  <VFES_Turret_Catapult_Blueprint.label>catapulta (projeto)</VFES_Turret_Catapult_Blueprint.label>
+  <VFES_Turret_Catapult_Frame.label>catapulta (construção)</VFES_Turret_Catapult_Frame.label>
+  <VFES_Turret_Catapult_Frame.description>Uma catapulta é um dispositivo bal&#237;stico usado para lançar um projétil a uma grande distância sem o aux&#237;lio de pólvora ou outros propulsores. Em uso desde os tempos antigos, a catapulta provou ser um dos mecanismos mais persistentemente eficazes na guerra.</VFES_Turret_Catapult_Frame.description>
+
+  <VFES_Artillery_Catapult.label>catapulta</VFES_Artillery_Catapult.label>
+  <VFES_Artillery_Catapult.description>Uma catapulta é um dispositivo bal&#237;stico usado para lançar um projétil a uma grande distância sem o aux&#237;lio de pólvora ou outros propulsores. Em uso desde os tempos antigos, a catapulta provou ser um dos mecanismos mais persistentemente eficazes na guerra.</VFES_Artillery_Catapult.description>
+
+  <VFES_Artillery_Rock.label>rocha enorme</VFES_Artillery_Rock.label>
+
+
+</LanguageData>

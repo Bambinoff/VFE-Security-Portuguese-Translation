@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Barbed Wire -->
+
+  <VFES_BarbedWire.label>arame farpado</VFES_BarbedWire.label>
+  <VFES_BarbedWire.description>Um tipo de arame de aço consistindo em pontas afiadas organizado em intervalos. Não só diminui o movimento dos inimigos, como também causa cortes e perfurações.</VFES_BarbedWire.description>
+  <VFES_BarbedWire_Blueprint.label>arame farpado (projeto)</VFES_BarbedWire_Blueprint.label>
+  <VFES_BarbedWire_Frame.label>arame farpado (construção)</VFES_BarbedWire_Frame.label>
+  <VFES_BarbedWire_Frame.description>Um tipo de arame de aço consistindo em pontas afiadas organizado em intervalos. Não só diminui o movimento dos inimigos, como também causa cortes e perfurações.</VFES_BarbedWire_Frame.description>
+
+
+  <!-- Trench -->
+
+  <VFES_Trench.label>trincheira</VFES_Trench.label>
+  <VFES_Trench.description>Uma vala longa e estreita escavada no chão. Para cruzá-lo, é necessário subir e descer e, portanto, diminui significativamente a velocidade de movimento. Os soldados dentro da trincheira sofrem penalidade no alcance das armas, mas ganham cobertura significativa.</VFES_Trench.description>
+  <VFES_Trench_Blueprint.label>trincheira (projeto)</VFES_Trench_Blueprint.label>
+  <VFES_Trench_Frame.label>trincheira (construção)</VFES_Trench_Frame.label>
+  <VFES_Trench_Frame.description>Uma vala longa e estreita escavada no chão. Para cruzá-lo, é necessário subir e descer e, portanto, diminui significativamente a velocidade de movimento. Os soldados dentro da trincheira sofrem penalidade no alcance das armas, mas ganham cobertura significativa.</VFES_Trench_Frame.description>
+
+
+  <!-- Ammo Crate -->
+
+  <VFES_AmmoCrate.label>caixa de munição</VFES_AmmoCrate.label>
+  <VFES_AmmoCrate.description>Uma caixa de munição útil para armazenar cartuchos. Melhora a taxa de disparo dos soldados perto.</VFES_AmmoCrate.description>
+  <VFES_AmmoCrate_Blueprint.label>caixa de munição (projeto)</VFES_AmmoCrate_Blueprint.label>
+  <VFES_AmmoCrate_Blueprint_Install.label>caixa de munição (projeto)</VFES_AmmoCrate_Blueprint_Install.label>
+  <VFES_AmmoCrate_Frame.label>caixa de munição (construção)</VFES_AmmoCrate_Frame.label>
+  <VFES_AmmoCrate_Frame.description>Uma caixa de munição útil para armazenar cartuchos. Melhora a taxa de disparo dos soldados perto.</VFES_AmmoCrate_Frame.description>
+
+
+</LanguageData>

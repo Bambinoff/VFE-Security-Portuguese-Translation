@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medieval -->
+
+  <VFES_SiegeEquipment.label>equipamento de cerco</VFES_SiegeEquipment.label>
+  <VFES_SiegeEquipment.description>Construa equipamentos de cerco medievais.</VFES_SiegeEquipment.description>
+
+
+  <!-- Industrial -->
+
+  <VFES_TrenchWarfare.label>guerra de trincheiras</VFES_TrenchWarfare.label>
+  <VFES_TrenchWarfare.description>Adapte uma doutrina de guerra de trincheira com uma seleção de armas para combate de perto, bem como a capacidade de cavar trincheiras.</VFES_TrenchWarfare.description>
+
+  <VFES_Artillery.label>artilharia</VFES_Artillery.label>
+  <VFES_Artillery.description>Aprenda a construir artilharia de campo capaz de bombardear alvos distantes na região de um local no mundo.</VFES_Artillery.description>
+
+  <VFES_SentryGuns.label>sentinelas</VFES_SentryGuns.label>
+  <VFES_SentryGuns.description>Crie armas de sentinela confiáveis e auto-alimentadas para serem utilizadas em campo.</VFES_SentryGuns.description>
+
+  <VFES_MetalAlloysBarricades.label>barreiras de ligas metálicas</VFES_MetalAlloysBarricades.label>
+  <VFES_MetalAlloysBarricades.description>Construir barricadas de metal reforçado.</VFES_MetalAlloysBarricades.description>
+
+  <VFES_ConcealedDefenses.label>defesas ocultas</VFES_ConcealedDefenses.label>
+  <VFES_ConcealedDefenses.description>Construa barreiras e torres submers&#237;veis, perfeitas para defesas internas.</VFES_ConcealedDefenses.description>
+
+  <VFES_MissileBarrage.label>torreta de m&#237;sseis</VFES_MissileBarrage.label>
+  <VFES_MissileBarrage.description>Adapte a tecnologia explosiva em uma forma de lançador de m&#237;sseis superf&#237;cie-superf&#237;cie.</VFES_MissileBarrage.description>
+
+
+  <!-- Spacer -->
+
+  <VFES_PulseChargedDefenses.label>defesas de cargas de pulso</VFES_PulseChargedDefenses.label>
+  <VFES_PulseChargedDefenses.description>Desenvolva canhões avançados de carga capazes de manter uma velocidade de disparo consistente.</VFES_PulseChargedDefenses.description>
+
+  <VFES_Railgun.label>canhão elétrico</VFES_Railgun.label>
+  <VFES_Railgun.description>Adapte o armamento da espaçonave como parte de seus sistemas defensivos.</VFES_Railgun.description>
+
+  <VFES_EMPCannon.label>canhão EMP</VFES_EMPCannon.label>
+  <VFES_EMPCannon.description>Desenvolva canhões EMP, úteis em toda a galáxia com sua capacidade de atordoar mecanóides.</VFES_EMPCannon.description>
+
+  <VFES_RepulsorTechnology.label>tecnologia repulsora</VFES_RepulsorTechnology.label>
+  <VFES_RepulsorTechnology.description>Construa geradores de escudo que projetem campos de energia capazes de repelir projéteis.</VFES_RepulsorTechnology.description>
+
+
+</LanguageData>

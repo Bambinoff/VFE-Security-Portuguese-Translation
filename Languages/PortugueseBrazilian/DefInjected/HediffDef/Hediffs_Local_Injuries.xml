@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ballista -->
+
+  <VFES_Stab.label>estilhaço</VFES_Stab.label>
+  <VFES_Stab.comps.0.labelTendedWell>enfaixado</VFES_Stab.comps.0.labelTendedWell>
+  <VFES_Stab.comps.0.labelTendedWellInner>suturado</VFES_Stab.comps.0.labelTendedWellInner>
+  <VFES_Stab.comps.0.labelSolidTendedWell>fixado</VFES_Stab.comps.0.labelSolidTendedWell>
+  <VFES_Stab.injuryProps.destroyedLabel>cortado fora</VFES_Stab.injuryProps.destroyedLabel>
+  <VFES_Stab.injuryProps.destroyedOutLabel>cortado fora</VFES_Stab.injuryProps.destroyedOutLabel>
+  <VFES_Stab.labelNoun>uma perfuração</VFES_Stab.labelNoun>
+  <VFES_Stab.description>Uma perfuração.</VFES_Stab.description>
+
+
+</LanguageData>

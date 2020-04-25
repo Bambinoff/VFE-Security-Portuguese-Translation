@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Artillery -->
+
+  <VFES_Turret_Artillery.label>artilharia</VFES_Turret_Artillery.label>
+  <VFES_Turret_Artillery.description>Uma artilharia controlável que lança todos os tipos de projéteis. Capaz de infligir danos devastadores &#224;s forças e estruturas inimigas, esse mecanismo militar é excelente em dar apoio a soldados em campo.\n\nCapaz de atingir outras áreas do mundo em um raio médio.</VFES_Turret_Artillery.description>
+  <VFES_Turret_Artillery_Blueprint.label>artilharia (projeto)</VFES_Turret_Artillery_Blueprint.label>
+  <VFES_Turret_Artillery_Blueprint_Install.label>artilharia (projeto)</VFES_Turret_Artillery_Blueprint_Install.label>
+  <VFES_Turret_Artillery_Frame.label>artilharia (construção)</VFES_Turret_Artillery_Frame.label>
+  <VFES_Turret_Artillery_Frame.description>Uma artilharia controlável que lança todos os tipos de projéteis. Capaz de infligir danos devastadores &#224;s forças e estruturas inimigas, esse mecanismo militar é excelente em dar apoio a soldados em campo.\n\nCapaz de atingir outras áreas do mundo em um raio médio.</VFES_Turret_Artillery_Frame.description>
+
+  <VFES_Artillery_Weapon.label>artilharia</VFES_Artillery_Weapon.label>
+  <VFES_Artillery_Weapon.description>Canhão de artilharia capaz de bombardeio de longo alcance.</VFES_Artillery_Weapon.description>
+
+
+</LanguageData>

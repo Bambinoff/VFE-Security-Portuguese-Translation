@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- Submersible -->
+    <VFESecurity.Submerged>submerso</VFESecurity.Submerged>
+
+    <!-- Long-range artillery -->
+    <VFESecurity.WorldTileRange>Alcance de ladrilho no mundo</VFESecurity.WorldTileRange>
+
+    <VFESecurity.TargetWorldTile>Mirar ladrilho no mundo</VFESecurity.TargetWorldTile>
+    <VFESecurity.TargetWorldTile_Description>Selecione um ladrilho no mundo para o {0} disparar.</VFESecurity.TargetWorldTile_Description>
+    <VFESecurity.TargetWorldTile_DescriptionShort>Selecione um ladrilho do mundo para disparar.</VFESecurity.TargetWorldTile_DescriptionShort>
+    <VFESecurity.CommandTargetTileFailNoArtillery>Este {0} não possui nenhuma artilharia adequada.</VFESecurity.CommandTargetTileFailNoArtillery>
+
+    <VFESecurity.TargetWorldTileOutOfRange>Ladrilho está fora de alcance.</VFESecurity.TargetWorldTileOutOfRange>
+    <VFESecurity.TargetMap>Mirar mapa</VFESecurity.TargetMap>
+    <VFESecurity.TargetPeaceTalks>Target peace talks</VFESecurity.TargetPeaceTalks>
+    <VFESecurity.TargetSettlement>Mirar assentamento</VFESecurity.TargetSettlement>
+    <VFESecurity.TargetOutpost>Mirar posto avançado</VFESecurity.TargetOutpost>
+    <VFESecurity.TargetWorldTileEmpty>Mirar área (não terá efeito)</VFESecurity.TargetWorldTileEmpty>
+    <VFESecurity.TargetWorldFlyingObject>Não é poss&#237;vel mirar objetos voadores.</VFESecurity.TargetWorldFlyingObject>
+    <VFESecurity.TargetWorldTileSameTile>Não é poss&#237;vel mirar o seu próprio ladrilho.</VFESecurity.TargetWorldTileSameTile>
+
+    <VFESecurity.MessageTargetWorldTileInvalid>Targeted area is invalid.</VFESecurity.MessageTargetWorldTileInvalid>
+    <VFESecurity.Settlement>settlement</VFESecurity.Settlement>
+    <VFESecurity.MessageTargetWorldTileOutOfRange>Targeted area is out of the {0}'s range.</VFESecurity.MessageTargetWorldTileOutOfRange>
+
+    <!-- Messages -->
+    <VFESecurity.GoodwillChangedReason_ArtilleryStrike>atacado por artilharia</VFESecurity.GoodwillChangedReason_ArtilleryStrike>
+    <VFESecurity.Message_ArtilleryBombardmentEnded>{0} de {1} pararam de bombardear seus assentamentos.</VFESecurity.Message_ArtilleryBombardmentEnded>
+
+    <!-- Letters -->
+    <VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>Provocar {0}</VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>
+    <VFESecurity.ArtilleryStrikePeaceTalks_LetterText>Ao enviar um ataque de artilharia em seu grupo de negociação de paz, as relações entre você e {0} se deteriorarão. Eles podem enviar um grupo de ataque em retaliação.</VFESecurity.ArtilleryStrikePeaceTalks_LetterText>
+
+    <VFESecurity.ArtilleryStrikeSettlement_Letter>Retaliação da artilharia</VFESecurity.ArtilleryStrikeSettlement_Letter>
+    <VFESecurity.ArtilleryStrikeSettlement_LetterText>Devido a sua provocação por ataque de artilharia, os {0} de {1} decidiram devolver fogo aos seus assentamentos usando a própria artilharia!\n\nEste bombardeio continuará por alguns dias ou até você destruir o assentamento.</VFESecurity.ArtilleryStrikeSettlement_LetterText>
+
+    <VFESecurity.LetterFactionBaseDefeatedStrike>A base inimiga {0} foi destru&#237;da.</VFESecurity.LetterFactionBaseDefeatedStrike>
+
+    <!-- Psychic pylon -->
+    <VFESecurity.PsychicPylonExposure>Exposição a pilão ps&#237;quico</VFESecurity.PsychicPylonExposure>
+
+    <!-- Ammo crate -->
+    <VFESecurity.AmmoCrate>Caixa de munição</VFESecurity.AmmoCrate>
+
+    <!-- Rearmable traps -->
+    <VFESecurity.Armed>Armada</VFESecurity.Armed>
+    <VFESecurity.NeedsRearming>Necessita rearmar</VFESecurity.NeedsRearming>
+    <VFESecurity.DesignatorRearmTraps>Rearmar</VFESecurity.DesignatorRearmTraps>
+    <VFESecurity.DesignatorRearmTraps_Description>Marque armadilhas desarmadas para serem rearmadas pelos seus colonos.</VFESecurity.DesignatorRearmTraps_Description>
+    <VFESecurity.MessageMustDesignateRearmables>Deve designar armadilhas rearmabáveis desarmadas.</VFESecurity.MessageMustDesignateRearmables>
+
+</LanguageData>

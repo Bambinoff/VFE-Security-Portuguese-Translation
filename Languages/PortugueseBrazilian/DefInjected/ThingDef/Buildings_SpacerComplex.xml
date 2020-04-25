@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Barrier -->
+
+  <VFES_Barrier.label>barreira</VFES_Barrier.label>
+  <VFES_Barrier.description>Uma barricada de metal reforçado mantida no lugar por uma estrutura de concreto. Oferece uma excelente cobertura de ataques &#224; distância.</VFES_Barrier.description>
+  <VFES_Barrier_Blueprint.label>barreira (projeto)</VFES_Barrier_Blueprint.label>
+  <VFES_Barrier_Frame.label>barreira (construção)</VFES_Barrier_Frame.label>
+  <VFES_Barrier_Frame.description>Uma barricada de metal reforçado mantida no lugar por uma estrutura de concreto. Oferece uma excelente cobertura de ataques &#224; distância.</VFES_Barrier_Frame.description>
+
+
+  <!-- Charge Complex -->
+
+  <VFES_Turret_ChargeComplex.label>canhão de carga montado</VFES_Turret_ChargeComplex.label>
+  <VFES_Turret_ChargeComplex.description>Um canhão de carga estacionário montado em uma barreira de metal. Capaz de manter o fogo até que o cano precise ser trocado.</VFES_Turret_ChargeComplex.description>
+  <VFES_Turret_ChargeComplex_Blueprint.label>canhão de carga montada (projeto)</VFES_Turret_ChargeComplex_Blueprint.label>
+  <VFES_Turret_ChargeComplex_Frame.label>canhão de carga montada (construção)</VFES_Turret_ChargeComplex_Frame.label>
+  <VFES_Turret_ChargeComplex_Frame.description>Um canhão de carga estacionário montado em uma barreira de metal. Capaz de manter o fogo até que o cano precise ser trocado.</VFES_Turret_ChargeComplex_Frame.description>
+
+  <VFES_Gun_ChargeComplex.label>canhão de carga</VFES_Gun_ChargeComplex.label>
+  <VFES_Gun_ChargeComplex.description>Um canhão de carga feita para ser montada em uma torre.</VFES_Gun_ChargeComplex.description>
+
+  <VFES_Bullet_ChargeComplex.label>tiro de carga</VFES_Bullet_ChargeComplex.label>
+
+
+</LanguageData>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Double Autocannon -->
+
+  <VFES_Turret_AutocannonDouble.label>canhão automático duplo</VFES_Turret_AutocannonDouble.label>
+  <VFES_Turret_AutocannonDouble.description>Uma pesada torreta automática aprimorada com 2 canos. Suas munições de grande calibre causam grandes danos em alcance significativo, mas seus canos devem ser recondicionado após o uso. Não pode disparar contra alvos próximos e pode explodir quando estiver danificado.</VFES_Turret_AutocannonDouble.description>
+  <VFES_Turret_AutocannonDouble_Blueprint.label>canhão automático duplo (projeto)</VFES_Turret_AutocannonDouble_Blueprint.label>
+  <VFES_Turret_AutocannonDouble_Frame.label>canhão automático duplo (construção)</VFES_Turret_AutocannonDouble_Frame.label>
+  <VFES_Turret_AutocannonDouble_Frame.description>Uma pesada torreta automática aprimorada com 2 canos. Suas munições de grande calibre causam grandes danos em alcance significativo, mas seus canos devem ser recondicionado após o uso. Não pode disparar contra alvos próximos e pode explodir quando estiver danificado.</VFES_Turret_AutocannonDouble_Frame.description>
+
+  <VFES_TurretDoubleAutocannon_Top.label>canhão automático duplo</VFES_TurretDoubleAutocannon_Top.label>
+  <VFES_TurretDoubleAutocannon_Top.description>Um canhão de cano duplo, carregamento automático projetado para se conectar a uma torre.</VFES_TurretDoubleAutocannon_Top.description>
+
+
+  <!-- Rocket Turret -->
+
+  <VFES_Turret_TriRocket.label>torreta de m&#237;ssil</VFES_Turret_TriRocket.label>
+  <VFES_Turret_TriRocket.description>Uma torreta pesada capaz de lançar uma barragem de superf&#237;cie auto-propulsão a m&#237;sseis de superf&#237;cie. Não pode disparar contra alvos próximos e pode explodir quando estiver danificado.</VFES_Turret_TriRocket.description>
+  <VFES_Turret_TriRocket_Blueprint.label>torreta de m&#237;ssil (projeto)</VFES_Turret_TriRocket_Blueprint.label>
+  <VFES_Turret_TriRocket_Frame.label>torreta de m&#237;ssil (construção)</VFES_Turret_TriRocket_Frame.label>
+  <VFES_Turret_TriRocket_Frame.description>Uma torreta pesada capaz de lançar uma barragem de superf&#237;cie auto-propulsão a m&#237;sseis de superf&#237;cie. Não pode disparar contra alvos próximos e pode explodir quando estiver danificado.</VFES_Turret_TriRocket_Frame.description>
+
+  <VFES_TurretTriRocket_Top.label>torreta de m&#237;ssil</VFES_TurretTriRocket_Top.label>
+  <VFES_TurretTriRocket_Top.description>Um lançador de rajada tripla carregamento automático projetado para se conectar a uma torre.</VFES_TurretTriRocket_Top.description>
+
+  <VFES_Bullet_HighExplosiveMissile.label>m&#237;ssil</VFES_Bullet_HighExplosiveMissile.label>
+
+
+</LanguageData>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Military Turret -->
+
+  <VFES_Turret_MilitaryTurret.label>torreta militar</VFES_Turret_MilitaryTurret.label>
+  <VFES_Turret_MilitaryTurret.description>Uma torreta automática de cano duplo de n&#237;vel militar. Requer aço para renovar seus canos após uso pesado. Pode explodir quando estiver danificado. Sua IA não pode ser controlado diretamente, portanto, cuidado com fogo amigo.</VFES_Turret_MilitaryTurret.description>
+  <VFES_Turret_MilitaryTurret_Blueprint.label>torreta militar (projeto)</VFES_Turret_MilitaryTurret_Blueprint.label>
+  <VFES_Turret_MilitaryTurret_Blueprint_Install.label>torreta militar (projeto)</VFES_Turret_MilitaryTurret_Blueprint_Install.label>
+  <VFES_Turret_MilitaryTurret_Frame.label>torreta militar (construção)</VFES_Turret_MilitaryTurret_Frame.label>
+  <VFES_Turret_MilitaryTurret_Frame.description>Uma torreta automática de cano duplo de n&#237;vel militar. Requer aço para renovar seus canos após uso pesado. Pode explodir quando estiver danificado. Sua IA não pode ser controlado diretamente, portanto, cuidado com fogo amigo.</VFES_Turret_MilitaryTurret_Frame.description>
+
+  <VFES_Gun_MilitaryTurret.label>torreta militar</VFES_Gun_MilitaryTurret.label>
+  <VFES_Gun_MilitaryTurret.description>arma simples de dois canos automáticas feitas para serem montadas em uma torre.</VFES_Gun_MilitaryTurret.description>
+
+
+  <!-- Searchlight -->
+
+  <VFES_Turret_Searchlight.label>holofote</VFES_Turret_Searchlight.label>
+  <VFES_Turret_Searchlight.description>Um equipamento que combina uma lâmpada extremamente luminosa e um refletor parabólico espelhado, útil para iluminar e ofuscado a visão dos alvos.</VFES_Turret_Searchlight.description>
+  <VFES_Turret_Searchlight_Blueprint.label>holofote (projeto)</VFES_Turret_Searchlight_Blueprint.label>
+  <VFES_Turret_Searchlight_Blueprint_Install.label>holofote (projeto)</VFES_Turret_Searchlight_Blueprint_Install.label>
+  <VFES_Turret_Searchlight_Frame.label>holofote (construção)</VFES_Turret_Searchlight_Frame.label>
+  <VFES_Turret_Searchlight_Frame.description>Um equipamento que combina uma lâmpada extremamente luminosa e um refletor parabólico espelhado, útil para iluminar e ofuscado a visão dos alvos.</VFES_Turret_Searchlight_Frame.description>
+
+  <VFES_Gun_Searchlight.label>holofote</VFES_Gun_Searchlight.label>
+  <VFES_Gun_Searchlight.description>Um holofote para uma torre.</VFES_Gun_Searchlight.description>
+
+
+  <!-- Flame Turret -->
+
+  <VFES_Turret_Flame.label>torreta lança-chamas</VFES_Turret_Flame.label>
+  <VFES_Turret_Flame.description>Uma torreta de lança-chamas portátil. Pode explodir quando estiver danificado. Sua IA não pode ser controlado diretamente, portanto, cuidado com fogo amigo.</VFES_Turret_Flame.description>
+  <VFES_Turret_Flame_Blueprint.label>torreta lança-chamas (projeto)</VFES_Turret_Flame_Blueprint.label>
+  <VFES_Turret_Flame_Blueprint_Install.label>torreta lança-chamas (projeto)</VFES_Turret_Flame_Blueprint_Install.label>
+  <VFES_Turret_Flame_Frame.label>torreta lança-chamas (construção)</VFES_Turret_Flame_Frame.label>
+  <VFES_Turret_Flame_Frame.description>Uma torreta de lança-chamas portátil. Pode explodir quando estiver danificado. Sua IA não pode ser controlado diretamente, portanto, cuidado com fogo amigo.</VFES_Turret_Flame_Frame.description>
+
+  <VFES_Gun_FlameTurret.label>torreta lança-chamas</VFES_Gun_FlameTurret.label>
+  <VFES_Gun_FlameTurret.description>Um lança-chamas feito para ser montado em uma torreta.</VFES_Gun_FlameTurret.description>
+
+  <VFES_Bullet_FlameTurret.label>combust&#237;vel lança-chamas</VFES_Bullet_FlameTurret.label>
+
+
+  <!-- Sentry Gun -->
+
+  <VFES_Turret_SentryGun.label>sentinela</VFES_Turret_SentryGun.label>
+  <VFES_Turret_SentryGun.description>Uma torreta auto-alimentada com uma pequena metralhadora montada em cima. Leve o suficiente para ser transportado e implantado em qualquer lugar. Pode explodir quando estiver danificado. Sua IA não pode ser controlado diretamente, portanto, cuidado com fogo amigo.</VFES_Turret_SentryGun.description>
+  <VFES_Turret_SentryGun_Blueprint.label>sentinela (projeto)</VFES_Turret_SentryGun_Blueprint.label>
+  <VFES_Turret_SentryGun_Blueprint_Install.label>sentinela (projeto)</VFES_Turret_SentryGun_Blueprint_Install.label>
+  <VFES_Turret_SentryGun_Frame.label>sentinela (construção)</VFES_Turret_SentryGun_Frame.label>
+  <VFES_Turret_SentryGun_Frame.description>Uma torreta auto-alimentada com uma pequena metralhadora montada em cima. Leve o suficiente para ser transportado e implantado em qualquer lugar. Pode explodir quando estiver danificado. Sua IA não pode ser controlado diretamente, portanto, cuidado com fogo amigo.</VFES_Turret_SentryGun_Frame.description>
+
+  <VFES_Gun_SentryTurret.label>sentinela</VFES_Gun_SentryTurret.label>
+  <VFES_Gun_SentryTurret.description>Uma metralhadora totalmente automática feita para ser montada em uma torre.</VFES_Gun_SentryTurret.description>
+
+
+</LanguageData>
